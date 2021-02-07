@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{6B76E998-999A-4AEC-ABF1-32956086B630}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{DC09C545-E292-447C-B660-F96FA634659A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6B76E998-999A-4AEC-ABF1-32956086B630}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B76E998-999A-4AEC-ABF1-32956086B630}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B76E998-999A-4AEC-ABF1-32956086B630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC09C545-E292-447C-B660-F96FA634659A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC09C545-E292-447C-B660-F96FA634659A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC09C545-E292-447C-B660-F96FA634659A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC09C545-E292-447C-B660-F96FA634659A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
